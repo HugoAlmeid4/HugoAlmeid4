@@ -1,10 +1,10 @@
 ![Design and Development](https://github.com/HugoAlmeid4/HugoAlmeid4/blob/main/Frame%202%20(1).png?raw=true)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoalmeid4&label=Profile%20views&color=0e75b6&style=flat" alt="hugoalmeid4" /> </p>
+
 ## Welcome!👋
 
 I am a student from Portugal. That likes technology and wants to work with it.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoalmeid4&label=Profile%20views&color=0e75b6&style=flat" alt="hugoalmeid4" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
