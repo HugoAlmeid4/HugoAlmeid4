@@ -1,4 +1,4 @@
-![Design and Development](https://pbs.twimg.com/profile_banners/1664357195205492736/1724455384/600x200)
+![Design and Development](https://github.com/HugoAlmeid4/hugoalmeid4.github.io/blob/main/Imagens/Home%20(3).png?raw=true)
 
 ## Welcome!👋
 
