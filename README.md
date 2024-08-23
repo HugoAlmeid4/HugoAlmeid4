@@ -1,6 +1,5 @@
 ![Design and Development](https://github.com/HugoAlmeid4/HugoAlmeid4/blob/main/Frame%202%20(1).png?raw=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoalmeid4&label=Profile%20views&color=0e75b6&style=flat" alt="hugoalmeid4" /> </p>
 
 ## Welcome!👋
 
