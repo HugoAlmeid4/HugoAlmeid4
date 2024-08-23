@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/HugoAlmeid4/hugoalmeid4.github.io/blob/main/Imagens/Home%20(3).png?raw=true)
+![Design and Development](https://github.com/HugoAlmeid4/HugoAlmeid4/blob/main/Frame%202%20(1).png?raw=true)
 
 ## Welcome!👋
 
