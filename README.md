@@ -1,6 +1,7 @@
-## Welcome!👋
+## Hi!👋
 
-I am a student from Portugal. That likes technology and wants to work with it.
+I am a student from Portugal. That likes technology and wants to work with it. <br>
+test
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
