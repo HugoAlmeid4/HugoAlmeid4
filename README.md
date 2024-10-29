@@ -1,7 +1,7 @@
 ## Hi!👋
 
 I am a student from Portugal. <a> That likes technology and wants to work with it. <br>
-Writing code like solving puzzles. <br>"We can only see a short distance ahead, but we can see plenty there that needs to be done." - Alan Turing
+Writing code like solving puzzles. <br><br>""We can only see a short distance ahead, but we can see plenty there that needs to be done." - Alan Turing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
