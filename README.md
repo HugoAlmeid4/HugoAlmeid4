@@ -1,7 +1,7 @@
 ## Hi!👋
 
-I am a student from Portugal. That likes technology and wants to work with it. <br>
-test
+I am a student from Portugal. <a> That likes technology and wants to work with it. <br>
+Writing code like solving puzzles. <br> The difference is that, here, I can create my own pieces.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
