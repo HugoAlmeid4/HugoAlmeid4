@@ -25,5 +25,5 @@
 ###
 
 <p align="center">
-  <img src="https://github.com/HugoAlmeid4/HugoAlmeid4/blob/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img src="https://github.com/HugoAlmeid4/HugoAlmeid4/blob/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
