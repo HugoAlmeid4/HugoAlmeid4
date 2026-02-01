@@ -4,8 +4,7 @@
 
 <p align="center">
 
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/[ICON SLUG].svg" />
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v16/icons/[ICON SLUG].svg" />
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/youtube-play.png" alt="youtube-play"/>
 
   <a href="https://youtube.com/@hugottr.com" target="_blank">
     <img src="https://raw.githubusercontent.com/HugoAlmeid4/HugoAlmeid4/main/assets/icons/youtube-white.svg" width="50" />
