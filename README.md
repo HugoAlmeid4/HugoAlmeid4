@@ -10,23 +10,25 @@
 
   <img width="50" height="50" src="https://img.icons8.com/ios-glyphs/60/FFFFFF/twitterx--v2.png" alt="twitterx--v2"/>
 
+  <img width="50" height="50" src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" alt="github"/>
+
   <a href="https://youtube.com/@hugottr.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/HugoAlmeid4/HugoAlmeid4/main/assets/icons/youtube-white.svg" width="50" />
+
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://bsky.app/profile/did:plc:aa3bsz2gfkra5bxamcs4qwka" target="_blank">
-    <img src="https://raw.githubusercontent.com/HugoAlmeid4/HugoAlmeid4/main/assets/icons/bluesky-white.svg" width="50" />
+
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://x.com/hugottr_" target="_blank">
-    <img src="https://raw.githubusercontent.com/HugoAlmeid4/HugoAlmeid4/main/assets/icons/x-white.svg" width="50" />
+
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/HugoAlmeid4" target="_blank">
-    <img src="https://raw.githubusercontent.com/HugoAlmeid4/HugoAlmeid4/main/assets/icons/github-white.svg" width="50" />
+
   </a>
 
 </p>
