@@ -1,1 +1,29 @@
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/djcnrah-ef8e4276-5bf8-4ff9-8180-411d5fdda051.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGpjbnJhaC1lZjhlNDI3Ni01YmY4LTRmZjktODE4MC00MTFkNWZkZGEwNTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6Pdpb6yGsTKGzQOunObV1qkqzh9fr83LktLdPxFxcCM)
+<h1 align="center">Welcome to my profile. 👋</h1>
+
+###
+
+<p align="center">
+
+  <a href="https://youtube.com/@hugottr.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/did:plc:aa3bsz2gfkra5bxamcs4qwka" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bluesky.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/hugottr_" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="YOUR_GITHUB_URLhttps://github.com/HugoAlmeid4" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40" />
+  </a>
+</p>
+<h1 align="center"></h1>
+
+###
+
+<p align="center">
+  <img src="https://github.com/HugoAlmeid4/HugoAlmeid4/blob/main/profile-3d-contrib/profile-night-green-animate.svg" />
+</p>
