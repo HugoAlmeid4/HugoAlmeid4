@@ -5,21 +5,34 @@
 <p align="center">
 
   <a href="https://youtube.com/@hugottr.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg"
+         width="40"
+         style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="https://bsky.app/profile/did:plc:aa3bsz2gfkra5bxamcs4qwka" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bluesky.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bluesky.svg"
+         width="40"
+         style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="https://x.com/hugottr_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg"
+         width="40"
+         style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_GITHUB_URLhttps://github.com/HugoAlmeid4" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40" />
+
+  <a href="https://github.com/HugoAlmeid4" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"
+         width="40"
+         style="filter: invert(1);" />
   </a>
+
 </p>
+
 <h1 align="center"></h1>
 
 ###
