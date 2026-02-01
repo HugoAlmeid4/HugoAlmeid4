@@ -8,7 +8,7 @@
 
   <img width="48" height="48" src="https://img.icons8.com/material/48/FFFFFF/bluesky.png" alt="bluesky"/>
 
-  <img width="60" height="60" src="https://img.icons8.com/ios-glyphs/60/FFFFFF/twitterx--v2.png" alt="twitterx--v2"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-glyphs/60/FFFFFF/twitterx--v2.png" alt="twitterx--v2"/>
 
   <a href="https://youtube.com/@hugottr.com" target="_blank">
     <img src="https://raw.githubusercontent.com/HugoAlmeid4/HugoAlmeid4/main/assets/icons/youtube-white.svg" width="50" />
