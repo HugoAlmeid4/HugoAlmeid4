@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <a href="https://youtube.com/@hugottr.com" target="_blank">
+  <a href="https://youtube.com/@hugottr" target="_blank">
       <img width="52" height="52" src="https://img.icons8.com/ios-filled/50/FFFFFF/youtube-play.png" alt="youtube-play"/>
   </a>
   &nbsp;&nbsp;&nbsp;
