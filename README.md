@@ -6,6 +6,8 @@
 
   <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/youtube-play.png" alt="youtube-play"/>
 
+  <img width="48" height="48" src="https://img.icons8.com/material/48/FFFFFF/bluesky.png" alt="bluesky"/>
+
   <a href="https://youtube.com/@hugottr.com" target="_blank">
     <img src="https://raw.githubusercontent.com/HugoAlmeid4/HugoAlmeid4/main/assets/icons/youtube-white.svg" width="50" />
   </a>
