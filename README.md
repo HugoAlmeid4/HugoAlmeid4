@@ -12,6 +12,8 @@
 <p align="left">
 <a href="https://github.com/HugoAlmeid4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HugoAlmeid4" height="30" width="40" /></a>
 <a href="https://twitter.com/https://x.com/hralmeid4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/hralmeid4" height="30" width="40" /></a>
+<a href="https://gitlab.com/hralmeida" target="blank"><img align="center" src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" alt="https://x.com/hralmeid4" height="30" width="30" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
