@@ -2,11 +2,7 @@
 
 ### Trying to understand the universe.
 
-- I'm currently working on **a Astrophysics projects called universe toolkit.**
-
-- I'm currently learning **everything that I think I can handle..**
-
-- All of my projects are available at **[https://hugoalmeid4.github.io](https://hugoalmeid4.github.io)**
+- Personal website available at **[https://hugoalmeid4.github.io](https://hugoalmeid4.github.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
