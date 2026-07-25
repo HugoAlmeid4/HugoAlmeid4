@@ -2,7 +2,7 @@
 
 ### Trying to understand the universe.
 
-- Personal website available at **[https://hugoalmeid4.github.io](https://hugoalmeid4.github.io)**
+- Personal website available at **[https://hralmeida.com](https://hralmeida.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
